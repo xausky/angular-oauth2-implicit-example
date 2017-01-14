@@ -1,6 +1,6 @@
 {
-  "name": "angular-js",
-  "version": "0.0.0",
+  "name": "angular-oauth2-example",
+  "version": "0.1.0",
   "dependencies": {
     "angular": "^1.3.0",
     "bootstrap": "^3.2.0",
@@ -11,11 +11,10 @@
     "angular-sanitize": "^1.3.0",
     "angular-touch": "^1.3.0",
     "ngstorage": "~0.3.0",
-    "angularjs-oauth2": "*"
   },
   "devDependencies": {
     "angular-mocks": "^1.3.0"
   },
   "appPath": "app",
-  "moduleName": "angularJsApp"
+  "moduleName": "angular-oauth2-example"
 }
