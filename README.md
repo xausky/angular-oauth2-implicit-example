@@ -4,3 +4,6 @@ This project is the sample app for the [angularjs-oauth2 bower package](https://
 
 This [blog post](http://www.azurefromthetrenches.com/?p=2241) gives an overview.
 
+## start
+
+grunt serve
